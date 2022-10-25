@@ -1,30 +1,3 @@
----
-title: "¿Es el diseño de un gráfico importante como su información?"
-date: 2022-10-20
-
-categories:
-- python
-- guide
-
-tags:
-- python
-- financial
-- code
-- plotly
-
-keywords:
-- disqus
-- google
-- gravatar
-
-coverImage: /images/2022/plotly-tutorial/1642065646694.png
-coverMeta: out
-
-metaAlignment: center
----
-Libreria en Python, diseñada para conectar a datos de HomeBroker.
-<!--more-->
-
 A la hora de hacer análisis de datos, principalmente a la hora de presentar informes, la forma en la que nuestros datos es presentado es tan importante como la calidad de nuestra información.
 Tomemos por ejemplo un set de datos con la cotización del Dólar Blue desde 2019 al 2021, importado desde la librería Fallen en Python
 
